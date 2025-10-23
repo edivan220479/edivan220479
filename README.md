@@ -1,5 +1,5 @@
 ### Edivan Fernandes 👋🎓
-###Diploma
+Diploma
 [![Estacio]()](https://consultadiploma.estacio.br/diploma/1270.1270.f23151936860)
 
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edvian-fernandes-937a96242/)
