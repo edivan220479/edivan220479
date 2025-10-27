@@ -1,8 +1,10 @@
 ### Edivan Fernandes 👋🎓
+Engenlheiro de Software
+<br/>
 Diploma
-[![Estacio]()](https://consultadiploma.estacio.br/diploma/1270.1270.f23151936860)
+[[Estacio]](https://consultadiploma.estacio.br/diploma/1270.1270.f23151936860)
 
-[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edvian-fernandes-937a96242/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edvian-fernandes-937a96242/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edivan220479&show_icons=true&theme=gruvbox)
 
