@@ -4,7 +4,8 @@ Engenlheiro de Software
 Diploma
 [[Estacio]](https://consultadiploma.estacio.br/diploma/1270.1270.f23151936860)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edvian-fernandes-937a96242)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+edivan-fernandes)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edivan220479&show_icons=true&theme=gruvbox)
 
